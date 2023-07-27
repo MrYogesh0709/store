@@ -21,7 +21,7 @@ REACT_APP_STRIP_SECRET_KEY=YOUR_APP_STRIP_SECRET_KEY
 npm start
 ```
 
-- visit url http://localhost:5173/
+- visit url http://localhost:5000/
 
 ```sh
 npm run build
